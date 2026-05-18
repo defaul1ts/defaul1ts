@@ -1,4 +1,4 @@
-# 👋 こんにちは！I'm Holycrap888 | Backend Developer ⚙️
+# 👋 こんにちは！I'm Defaul1ts | Backend Developer ⚙️
 
 > *“Code is my ninjutsu – I summon scalable systems with microservices and Kafka.”* 🌀
 
